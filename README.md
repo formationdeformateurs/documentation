@@ -13,5 +13,11 @@ Fabriquer un contenu de formation innovant et construit à partir des besoins re
 - **Idriss** : animateur à l'Ipeeic
 - **Julia Barbelane** : vidéaste indépendante d'un côté et animatrice socioculturelle atypique de l'autre. Hors des circuits de l'animation et des institutions elle apporte la méthodologie de projet et les outils pour "faire autrement".
 
+## L'histoire
+[Comment Diantre, en sommes-nous arrivé(e)s là ?](https://github.com/formationdeformateurs/documentation/blob/master/D%C3%A9roul%C3%A9%20de%20la%20m%C3%A9thode%20de%20cr%C3%A9ation%20de%20la%20formation.md)
+
+## La méthode
+[Comment comptons-nous nous y prendre](https://github.com/formationdeformateurs/documentation/blob/master/D%C3%A9roul%C3%A9%20de%20la%20m%C3%A9thode%20de%20cr%C3%A9ation%20de%20la%20formation.md)
+
 ## Mots-clés : 
 Collaboration, développement de projets, agilité, Running Lean, valeurs, innovation, expérimentation, transformation sociale, pouvoir d'agir, jeunesse
