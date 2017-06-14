@@ -2,23 +2,23 @@
 *Le 13/06/17 aux Francas*  
 *Avec : Erwan, Claire, Manon et Julia.*
 
-##10h.
+## 10h.
 J'arrive chez les Francas de l'Hérault. Je suis chaleureusement accueillie par Erwan, maître des lieux.
 Claire et Manon sont là.
 On s'installe.
 
-##10h10.
+## 10h10.
 Je propose un tour de table. Non pas pour se présenter mais pour savoir dans quelles dispositions chacun est. L'idée : se relier tout doucement et poser un cadre bienveillant qui tient compte de l'état de chacun.  
 A priori on semble tous enthousiasmés à l'idée de commencer (enfin !) à travailler concrètement sur le projet (*lire "présentation du contexte"*).
 
-##10h15.
+## 10h15.
 C'est moi qui apporte le plus gros de la méthode. Aussi j'introduis ce premier atelier en présentant globalement la démarche :  
 - **Posture** : faire à partir des besoins du terrain et se mettre au service de ceux à qui la formation est destinée. Sortir de nos statuts d'experts/savants pour accueillir les véritables besoins et imaginer des solutions innovantes et adaptées. Il s'agirait aussi d'être vigilants sur la "posture haute" naturelle qu'on peut prendre dans l'idée de laisser un maximum de place aux idées nouvelles et plus justes.  
 - **Intention** : monter un projet pertinent et utile dans un contexte fun et enthousiasmant.  
 - **Outils** : des outils de développement de projet fun et efficaces issus des approches agiles (Running Lean, Speed Boat, Remember The Futur...) nos pratiques, expériences et formations respectives.  
 - **Points de vigilence** : notre capacité de résilience ! La posture agile nous invite à faire preuve de plus de résilience que d'habitude. Ca peut parfois gratter un peu et même décourager. Ensuite, les outils proposés ne seront pertinents que si on les utilise avec précision. On va donc probablement chipoter...
 
-##11h.
+## 11h.
 Lancement du premier atelier : [le speed boat](https://github.com/gymkhana-fr/gymkhana-contenu/blob/master/contributions/4_tous-dans-le-meme-bateau.md). L'idée : fabriquer une vision commune pour le projet.
 
 *insérer photos post-it du speed-boat*
@@ -38,7 +38,7 @@ On a encore besoin de s'aligner :
 - Abolire la position haute du formateur. Certains proposent un grand lâcher prise là où d'autre préconisent un un peu plus de cadre.
 -
 
-##12h45
+## 12h45
 C'est l'heure de la rétrospective !
 
 Bilan : l'atelier a été productif "*si j'avais dû l'imaginer je l'aurai imaginé comme ça.*". On a à la fois conscience qu'on a encore besoin de s'aligner mais la bonne nouvelle c'est qu'il nous reste encore 2 sessions de travail pour le faire !
