@@ -1,13 +1,13 @@
-#Proposition de programme et méthode pour la construction de la formation à « l’accompagnement des jeunes »
+# Proposition de programme et méthode pour la construction de la formation à « l’accompagnement des jeunes »
 
 
-##Avant propos :
+## Avant propos :
 
 *«Mon intention à travers cette proposition est de créer un contexte favorable à la création d’une formation la plus pertinente possible tout en cultivant l’enthousiasme et l’implication des membres de notre équipe.
 Il s’agit évidemment d’une proposition. La posture agile va nous obliger à nous réajuster tout au long du processus. Ensuite, j’ai supposé que les facteurs humains et institutionnels seraient optimaux.»*
 
 
-##PART#1
+## PART#1
 Intention : Créer un contexte de travail collaboratif le plus fiable et pertinent possible à l’aide d’outils pragmatiques et efficaces. Si l’équipe s’est « apprivoisée » et accordée sur une vision commune on augmente largement les chances de réussite du projet.
 
 **Atelier 1 – 3h**
@@ -23,7 +23,7 @@ Intention : Créer un contexte de travail collaboratif le plus fiable et pertine
 - Arbrifest – définir les valeurs du projet + créer une vision commune
 - Rétrospective
 
-##PART#2
+## PART#2
 Intention : fabriquer une formation qui répond à des besoins réels et identifiés en utilisant un méthode de création de projet efficace.
 
 **Atelier 1 – 4h**  
