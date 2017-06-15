@@ -47,6 +47,9 @@ En gros, nos personnages sont devenus **plus libres et plus conscients** de ce a
 ## 11h30
 Je présente [GitHub](https://github.com/) (l'outil numérique qu'on va utiliser pour collaborer autour du projet) au reste de l'équipe. J'ai bien conscience qu'il s'agit ici d'une proposition originale qui demande un petit temps d'adaptation (culture très web). Je propose donc que chacun se l'approprie à son rythme. En attendant, je m'occuperai de créer les documents sur lesquels on intéragira ensemble par la suite.
 
+![atelier 2 (github)](https://github.com/formationdeformateurs/documentation/blob/master/medias/atelier-2/atelier-2(github).png)
+
+
 ## 11h50
 Pour être sûrs de pas se louper on décide de fixer les prochaines dates de RDV : **jeudi 6 juillet de 9h à 12h à la maison Gabriela Mistral** et le **jeudi 13 juillet de 9h à 14h chez Julia à Montferrier-sur-lez**.  
 L'idée pour cette dernière date : profiter de la pause de midi pour se rencontrer encore un peu plus autour d'un repas partagé...
