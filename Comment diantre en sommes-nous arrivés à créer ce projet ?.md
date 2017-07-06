@@ -1,4 +1,4 @@
-# Mais comment Diantre en êtes-vous arrivés à créer ce projet ?
+# Mais comment Diantre en sommes nous arrivés à créer ce projet ?
 
 
 **1) Le département de l'Hérault décide de revoir sa politique jeunesse.**  
