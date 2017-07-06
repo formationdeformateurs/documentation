@@ -46,7 +46,8 @@ Là où on est méga accordés :
 
 On a encore besoin de s'aligner :
 - Abolire la position haute du formateur. Certains proposent un grand lâcher prise là où d'autre préconisent un un peu plus de cadre.
--
+- La question de légitimité de chacun
+- 
 
 ## 12h45
 C'est l'heure de la rétrospective !
