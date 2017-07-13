@@ -10,7 +10,7 @@ Fabriquer un contenu de formation innovant et construit à partir des besoins re
 - **Erwan Colliou** : animateur citoyenneté et engagement des jeunes aux Francas de l'Hérault. Il promeut la connexion au sens que l'on donne à ce que l'on fait pour faire prendre conscience (autant que faire se peut !) du "pouvoir d'agir" qu'ont les jeunes.
 - **Claire Vassal** : chargée de projet jeunesse au Conseil départemental de l'Hérault. Elle veut autant faire avec que pour les jeunes et est particulièrement enthousisamée par le caractère innovant du projet.
 - **Manon Melendez** : coordinatrice pédagogique à Léo Lagrange Méditerranée. Curieuse de nature, l'idée de réinterroger toute sa pratique l'enchente particulièrement mais pas autant que celle de remettre le Sens au coeur de tout ce que l'on fait.
-- **Idriss Ben Azaiz** : animateur du secteur jeunesse à l'I-peicc, il accompagne les projets jeunes. Il adore l'idée de travailler concrètement à plusieurs et il souhaite vivement ré-intorroger la question de l'accompagnement : pourquoi on le fait ?  
+- **Idriss Ben Azaiz** : animateur du secteur jeunesse à l'I-peicc, il accompagne les projets jeunes. Il adore l'idée de travailler concrètement à plusieurs et il souhaite vivement ré-intorroger la question de l'accompagnement (pourquoi on le fait ?) et mettre plus de fond dans les projets. 
 - **Julia Barbelane** : vidéaste indépendante d'un côté et animatrice socioculturelle atypique de l'autre. Hors des circuits de l'animation et des institutions elle apporte la méthodologie de projet et les outils pour "faire autrement".
 
 ## L'histoire
