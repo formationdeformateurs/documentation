@@ -5,7 +5,7 @@
 En gros, c'est le croisement entre le constat que c'est difficile de d'accompagner les jeunes et de les impliquer dans des projets, une étude sociologique menée par le Leris sur l'accompagnement des projets informels des jeunes et la décision du département de faire de l'engagement des jeunes son nouveau cheval de bataille.
 
 **2) L'envie de travailler autrement**  
-L'envie l'envie de travailler à plusieurs en impliquant divers acteurs en liens avec la jeunesse (Francas de l'Hérault, DDCS, Familles rurales, Léo Lagrange Méditerannée...) s'est ajoutée à ça.
+L'envie l'envie de travailler à plusieurs en impliquant divers acteurs en liens avec la jeunesse (Francas de l'Hérault, I-Peicc, DDCS, Familles rurales, Léo Lagrange Méditerannée...) s'est ajoutée à ça.
 
 **3) La volonté de faire faire par des jeunes**  
 Mais plus que d'impliquer des acteurs en lien avec la jeunesse, est née l'envie de travailler aussi avec des jeunes. Pour ça, nous sommes partis piocher dans nos contacts de jeunes engagés. 
