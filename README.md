@@ -15,6 +15,10 @@ Fabriquer un contenu de formation innovant et construit à partir des besoins re
 - **Virgine Poujol** : sociologue, elle suit l'aventure de loin et nous rejoint à l'occasion pour partager son regard et son expertise.
 
 ## Les partenaires
+![DDCS](https://github.com/formationdeformateurs/documentation/blob/master/medias/logos/logo-ddcs-34.jpg)
+![Francas](https://github.com/formationdeformateurs/documentation/blob/master/medias/logos/logo-francas.png)
+![Léo Lagrange](https://github.com/formationdeformateurs/documentation/blob/master/medias/logos/logo-leo-lagrange.png)
+![Ipeicc](https://github.com/formationdeformateurs/documentation/blob/master/medias/logos/logo-ipeicc.png)
 
 
 ## L'histoire
