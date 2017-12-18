@@ -19,24 +19,30 @@ Valider les problèmes qu'on a posé au canvas auprès des animateurs et vérifi
 NB : réponses courtes type : oui / non / 50 / vétérinaire
 
 ## Vérifier qu'on est sur les bonnes personnes 
--
--
--
+- Quel est- ton métier ?
+- As-tu pour mission d'accompagner les projets jeunes ?
+- Participerais-tu à une formation pour accompagner les projets de jeunes ? 
 
 ## Vérifier qu'il.elle a des difficultés pour analyser ses pratiques 
--
--
--
+- Disposes-tu de temps pour analyser tes pratiques en terme d'accompagnement de projets jeunes ? Si oui combien ? 
+- Discutes-tu de tes pratiques avec des collègues ?
+- Disposes-tu de méthodes pour analyser tes pratiques en terme d'accompagnement de projets jeunes ? Si oui cites-en une ? 
 
 ## Vérifier qu'il.elle a des difficultés pour réunir des jeunes autour d'un projet ou d'une dynamique
--
--
--
+- Es-tu parfois obligé d'annuler/reporter des rencontres faute de participants ? 
+- Quel est le ratio de participants en fonction des invitations ?
+- 
 
 ## Vérifier qu'il.elle ne se sent pas tout à fait libre d'accompagner les projets de jeunes comme elle le voudrait à cause de sa hiérarchie
--
-- 
--
+- Sur une échelle de 1 à 10 à combien evalues-tu ta marge de manoeuvre en fonction de ta hiérarchie ?
+- T'es-t-il déjà arrivé de proposer un projet qui a été refusé par ta hiérarchie pour des raisons autre que financières ? Si oui combien de fois sur combien ? 
+- Reçois-tu des injonctions très directives de la part de tes employeurs (ex : il faut 4 jeunes à la remise des prix)
+
+### Vérifier les alternatives
+- T'es-t-il déjà arrivé de faire à la place des jeunes pour aller plus vite ? Quel ratio ? 
+- Est-ce que tu t'appuies souvent sur les mêmes jeunes pour organiser des trucs ? 
+- As-tu déjà volontairement usé de stratégies (manque de clarté, mettre devant le fait accompli..) ta hiérarchie pour faire un peu plus ce que voulais dans ton projet ?
+
 
 # Présentation du contexte des problèmes (2min)
 On est animateur.trice.s, indépendant.e.s, créatrice.eur.s de projet, impliqué.e.s dans le servce jeunesse du Conseil Départemental de l'Hérault.
