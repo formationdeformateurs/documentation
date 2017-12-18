@@ -1,5 +1,5 @@
-# Contexte 
-- Valider les problèmes qu'on a posé au canvas auprès des animateurs et vérifier que ces mêmes animateurs seraient effectivement intéressés par ce type de formations.
+# Contexte des interviews problème
+Valider les problèmes qu'on a posé au canvas auprès des animateurs et vérifier que ces mêmes animateurs seraient effectivement intéressés par ce type de formations.
 
 # Infos pratiques
 - Interview les 3 types d"'utilisateurs types" 
