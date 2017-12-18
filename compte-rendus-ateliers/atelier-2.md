@@ -1,5 +1,5 @@
 # Compte-rendu d'atelier 2
-*Le 14/06/17 à Léo Lagrange*  
+*juin 2017 à Léo Lagrange*  
 *Avec : Erwan, Claire, Manon et Julia.*
 
 ## 10h
