@@ -1,8 +1,10 @@
 # Compte-rendu de l'atelier 4
 *novembre 2017 à la Maison Gabriela Mistral*
-*Avec : Idriss, Erwann, Julia, Claire et Manon*
+*Avec : Idriss, Erwann, Julia, Claire, Virgine et Manon*
 
 Maintenant qu'elle a pris le temps de s'aligner en terme de vision, de valeurs et d'objectifs notre petite équipe est prête à démarrer le processus de création de la formation. Yeah !
+
+Pour cette partie du process, nous sommes rejoints par Virginie. Elle est sociologue. C'est en partie grâce à elle que le Conseil départmental et les acteurs qui se sont associés au processus ont été sensibilisés à l'approche participative. Notre travail émane, en partie, d'une étude qu'elle a menée sur [l'accompagnement des initiatives informelles des jeunes](http://test.leris.org/wp-content/uploads/2017/11/e2a-poujol-pratiques-citoyennes-informelles-des-jeunes-et-acteurs-publics-une-relation-ambigc3bce1.pdf). C'est génial de pouvoir bénéficier de son regard et son expertise dans le processus !
 
 ## Le Running-lean c'est parti ! 
 Vous l'aurez compris, la particularité de ce projet est qu'on a décidé de le construire à partir des problèmes rencontrés sur le terrain au lieu de partir des problème que nous supposons que le terrain rencontre. 
