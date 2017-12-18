@@ -1,6 +1,6 @@
 
 # Compte-rendu d'atelier 3
-Avec : Erwan, Claire, Manon et Julia.*
+Avec : Erwan, Claire, Manon et Julia.
 
 ## Définir les valeurs fondatrices de notre collaboration
 
@@ -29,23 +29,23 @@ Exemple de résultat avec l'Arbrifest du projet VIF
 ## Un exercice périlleux pour notre équipe...
 La principale difficulté à laquelle on a été confronté est la croisée de nos cultures respectives. Je viens de l'entrepreneuriat, Manon et Erwann de l'associatif et Claire du social et de l'institution. Certain.e.s sont format.rice.eur.s depuis plus de 10 ans, et d'autres pas du tout.  
 Résultat : personne ne met la même définition derrière les mêmes mots et chacun.e est plus ou moins formaté.e par son parcours. L'alignement a pris du temps. On a dû reprendre rendez-vous pour aller jusqu'au bout de l'exercice, sans même le finir totalement.  
-En effet, arrivés à l'étape 9, on a réalisé que les objectif de l'atelier n'étaient pas les mêmes pour tout le monde. La sémentique différente. 
+En effet, arrivés à l'étape 9, on a réalisé que les objectifs de l'atelier n'étaient pas les mêmes pour tout le monde. La sémantique différente. 
 C'est pourquoi, limité.e.s par le temps et un peu usé.e.s par l'exercice on a décidé d'avorter l'atelier et de passer au suivant.
 
 ## ...mais grâce auquel on a beaucoup appris !
 En effet !  
 1) On a pris la mesure de nos différences culturelles. On veillera désormais à en tenir encore plus compte  
-2) On a réalisé que malgré notre "expérience" in pouvait encore nous arriver de travailler dans le mauvais sens
+2) On a réalisé que malgré notre "expérience" il pouvait encore nous arriver de travailler dans le mauvais sens
 3) On a vu qu'on pouvait (même encore) manquer de clarté sur une consigne, une méthode ou un fonctionnement et que ça pouvait avoir des conséquences non négligeables (ici perte de temps)
-4) On a vu que même en situation inconfortable (manque de clarté, de compréhension) on fonctionnait bien ensemble
-5) Au travers des discussions sur les valeurs on s'est alignés un peu plus. On a appris à mieux se connaître
+4) On a vu que, même en situation inconfortable (manque de clarté, de compréhension), on fonctionnait bien ensemble
+5) Au travers des discussions sur les valeurs on s'est aligné.e.s un peu plus. On a appris à mieux se connaître.
 6) On a confirmé que notre intention (même si la traduction en principes et actions n'a pas totalement aboutie) est commune et qu'on est aligné.e.s.
 
-## Nos valeurs fondatrices
+## Résultat : 4 valeurs fondatrices
 **Cohérence** : Le fond prévaut sur la forme, on vit et applique les valeurs que l'on transmet au groupe.  
 **Exploration** : On est OK avec le fait de se remettre en question, on expérimente concrètement les choses, on peut se tromper c'est OK.  
-**Co-création** : On reconnaît l'expertise de chacuns, on prend une posture collaborative, "le formé n'est pas une bouteille vide qu'on remplit", on ne donne pas une place mais on permet de la prendre.  
-**Soin à la relation** : On sort des postures hautes, on fait preuve de bienveillance, On créé un climat de confiance où chacun peut-être authentique, on a conscience de nos responsabilités indivuelles et de l'importance de l'auto-régulation sociale.  
+**Co-création** : On reconnaît l'expertise de chacun.e, on prend une posture collaborative, "le formé n'est pas une bouteille vide qu'on remplit", on ne donne pas une place mais on permet de la prendre.  
+**Soin à la relation** : On sort des postures hautes, on fait preuve de bienveillance, on créé un climat de confiance où chacun.e peut-être authentique, on a conscience de nos responsabilités indivuelles et de l'importance de l'auto-régulation sociale.  
 
 
 
