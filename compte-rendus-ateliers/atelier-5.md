@@ -1,15 +1,17 @@
 # Compte-rendu de l'atelier 5
-*décembre 2017 à la Maison Gabriela Mistral*
+*décembre 2017 à la Maison Gabriela Mistral*  
 *Avec : Idriss, Erwann, Julia, Claire, Virginie et Manon*
 
 ## Les interviews
 Maintenant qu'on a définit les tribus avec lesquelles on souhaitait travailler et qu'on a pré-supposé 3 de leurs problèmes et les alternatives qu'elles mettaient en place pour les pallier [cf compte-rendu de l'atelier 4](https://github.com/formationdeformateurs/documentation/blob/master/compte-rendus-ateliers/atelier-4.md) il s'agit de structurer la méthode d'interviews. 
 
 ## Présentation de la méthode et fabrication du contenu des interviews
-Les interviews ont pour but de valider ou d'invalider les problèmes que rencontrent supposément les tribus auxquelles on souhaite s'adresser. Pour ça :   
-1) on a vu la méthode dans son ensemble (étapes 1 à 8)
-2) on a fabriqué les questions de l'étape 3 (de a) à f))
-3) on a mis en scène une fausse interview
+Les interviews ont pour but de valider ou d'invalider les problèmes que rencontrent supposément les tribus auxquelles on souhaite s'adresser. Pour on a suivi la méthode suivante :   
+Temps #1 : on a vu la méthode dans son ensemble (étapes 1 à 8)
+Temps #2 : on a fabriqué les questions de l'étape 3 (de a) à f))
+Temps #3 : on a mis en scène une fausse interview
+
+**Ci-dessous, le résultat de notre travail !! Cette trame sera celle qui nous guidera dans le processus d'interview.**
 
 ------------------
 
@@ -91,4 +93,5 @@ Seul, on retranscrit ce qu'on a retenu de l'interview + coordonnées, nom, top d
 - veiller à ce que la personne parle d'elle même et non de ses collègues, amis....
 - ne pas tenir compte des conseils, solutions qu'elle propose mais bien se focaliser sur les problèmes
 - ne pas poser de questions orientées mais rebondir "*tu m'as dit ça tout à l'heure, est-ce que tu peux m'en dire un peu plus ?*", "*tu peux me reformuler ce que tu viens de dire ?*"
+
 
