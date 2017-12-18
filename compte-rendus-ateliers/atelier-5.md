@@ -3,7 +3,7 @@
 *Avec : Idriss, Erwann, Julia, Claire, Virginie et Manon*
 
 ## Les interviews
-Maintenant qu'on a définit les tribus avec lesquelles on souhaitait travailler et qu'on a pré-supposé 3 de leurs problèmes et les alternatives qu'elles mettaient en place pour les pallier [cf compte-rendu de l'atelier 4](https://github.com/formationdeformateurs/documentation/blob/master/compte-rendus-ateliers/atelier-4.md) il s'agit de structurer la méthode d'interviews. 
+Maintenant qu'on a définit les tribus avec lesquelles on souhaitait travailler et qu'on a pré-supposé 3 de leurs problèmes et les alternatives qu'elles mettaient en place pour les pallier ([cf compte-rendu de l'atelier 4](https://github.com/formationdeformateurs/documentation/blob/master/compte-rendus-ateliers/atelier-4.md)) il s'agit de structurer la méthode d'interviews. 
 
 ## Présentation de la méthode et fabrication du contenu des interviews
 Les interviews ont pour but de valider ou d'invalider les problèmes que rencontrent supposément les tribus auxquelles on souhaite s'adresser. Pour on a suivi la méthode suivante :   
