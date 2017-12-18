@@ -52,7 +52,7 @@ formations qui existent sur le sujet. On a supposé que vous rencontriez un cert
 # Le classement des problèmes (3min)
 NB : piocher au pif l'ordre des problèmes (jamais le même ordre de présentation des problèmes)  + ne pas la laisser développer ici
 Voici 3 problèmes qu'on a identifié et que tu as, dis-moi si tu les as et classe les par pénibilité ?
-- Tu n'as pas les moyens d'analyser ta pratiques et d'accompgner les jeunes en même temps.
+- Tu n'as pas les moyens d'analyser ta pratiques et d'accompagner les jeunes en même temps.
 - Tu n'arrives pas à réunir et impliquer les jeunes autour de d'un projet, d'une dyamique.
 - Tu te sens tiraillé.e entre tes aspirations/valeurs et les attentes/commandes de ta hiérarchie.
 
