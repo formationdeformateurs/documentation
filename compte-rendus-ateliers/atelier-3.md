@@ -1,5 +1,6 @@
 
 # Compte-rendu d'atelier 3
+*août et septembre 2017, chez Julia et à la Maison Gabriela Mistral
 Avec : Erwan, Claire, Manon et Julia.
 
 ## Définir les valeurs fondatrices de notre collaboration
