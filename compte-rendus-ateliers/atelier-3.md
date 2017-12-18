@@ -1,7 +1,10 @@
 
 # Compte-rendu d'atelier 3
-*août et septembre 2017, chez Julia et à la Maison Gabriela Mistral
-Avec : Erwan, Claire, Manon et Julia.
+*août et septembre 2017, chez Julia et à la Maison Gabriela Mistral  
+Avec : Erwan, Claire, Manon et Julia.*
+
+![Arbrifest part-1 petit-dej' chez Julia](https://github.com/formationdeformateurs/documentation/blob/master/medias/atelier-3/atelier-3(groupe2).jpg)
+![Arbrifest part-1 chez Julia](https://github.com/formationdeformateurs/documentation/blob/master/medias/atelier-3/atelier-3(tableau1).jpg)
 
 ## Définir les valeurs fondatrices de notre collaboration
 
@@ -33,6 +36,8 @@ Résultat : personne ne met la même définition derrière les mêmes mots et ch
 En effet, arrivés à l'étape 9, on a réalisé que les objectifs de l'atelier n'étaient pas les mêmes pour tout le monde. La sémantique différente. 
 C'est pourquoi, limité.e.s par le temps et un peu usé.e.s par l'exercice on a décidé d'avorter l'atelier et de passer au suivant.
 
+![exemple de valeurs](https://github.com/formationdeformateurs/documentation/blob/master/medias/atelier-3/atelier-3(valeurs3).jpg)
+
 ## ...mais grâce auquel on a beaucoup appris !
 En effet !  
 1) On a pris la mesure de nos différences culturelles. On veillera désormais à en tenir encore plus compte  
@@ -42,12 +47,17 @@ En effet !
 5) Au travers des discussions sur les valeurs on s'est aligné.e.s un peu plus. On a appris à mieux se connaître.
 6) On a confirmé que notre intention (même si la traduction en principes et actions n'a pas totalement aboutie) est commune et qu'on est aligné.e.s.
 
+![arbrifest part-2 MGM](https://github.com/formationdeformateurs/documentation/blob/master/medias/atelier-3/atelier-3(manonclaireerwan).jpg)
+
 ## Résultat : 4 valeurs fondatrices
 **Cohérence** : Le fond prévaut sur la forme, on vit et applique les valeurs que l'on transmet au groupe.  
 **Exploration** : On est OK avec le fait de se remettre en question, on expérimente concrètement les choses, on peut se tromper c'est OK.  
 **Co-création** : On reconnaît l'expertise de chacun.e, on prend une posture collaborative, "le formé n'est pas une bouteille vide qu'on remplit", on ne donne pas une place mais on permet de la prendre.  
 **Soin à la relation** : On sort des postures hautes, on fait preuve de bienveillance, on créé un climat de confiance où chacun.e peut-être authentique, on a conscience de nos responsabilités indivuelles et de l'importance de l'auto-régulation sociale.  
 
-
+![cohérence](https://github.com/formationdeformateurs/documentation/blob/master/medias/atelier-3/atelier-3(cohe%CC%81rence).jpg)
+![co-création](https://github.com/formationdeformateurs/documentation/blob/master/medias/atelier-3/atelier-3(cocreation).jpg)
+![soin à la relation](https://github.com/formationdeformateurs/documentation/blob/master/medias/atelier-3/atelier-3(soinalarelation).jpg)
+![exploration](https://github.com/formationdeformateurs/documentation/blob/master/medias/atelier-3/atelier-3(exploration).jpg)
 
 
