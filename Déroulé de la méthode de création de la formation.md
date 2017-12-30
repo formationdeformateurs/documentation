@@ -15,12 +15,16 @@ Intention : Créer un contexte de travail collaboratif le plus fiable et pertine
 - SpeedBoat : créer une vision commune tout en faisant un diagnostic des forces et faiblesses du projet
 - Rétrospective
 
-**Atelier 2 –  2h**
+**Atelier 2 –  3h**
 - Souvenir du futur : mieux comprendre et définir ce que chacun attend
 - Rétrospective
 
-**Atelier 3 – 2h**
-- Arbrifest – définir les valeurs du projet + créer une vision commune
+**Atelier 3 – 3h**
+- Arbrifest part 1 – définir les valeurs du projet + créer une vision commune
+- Rétrospective
+
+**Atelier 4 – 3h**
+- Arbrifest part 2 – définir les valeurs du projet + créer une vision commune
 - Rétrospective
 
 ## PART#2
@@ -57,20 +61,20 @@ Running lean#3 :
 - Présentation et transmission de la méthode « d’interview solutions »
 
 
-**Atelier 3bis – 2h**
+**Atelier 3bis – 4h**
 - Fabrication d’un support (site vitrine, plaquette, vidéo…) pour mener les interviews solutions sur la base d’une présentation concrète
 
 
-**Atelier 4 – 4h (individuel)**
+**Atelier 4 – 6h (individuel)**
 - Interviews solutions
 
 
-**Atelier 5 – 4h**
+**Atelier 5 – 5h**
 Running lean#4
 - Test du « Minimum Value Product »
 - Rétrospective
 
-**Atelier 6 – 2h**
+**Atelier 6 – 3h**
 - Rétrospective
 - Amélioration
 

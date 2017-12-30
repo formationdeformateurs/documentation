@@ -12,6 +12,7 @@ Fabriquer un contenu de formation innovant et construit à partir des besoins re
 - **Manon Melendez** : coordinatrice pédagogique à Léo Lagrange Méditerranée. Curieuse de nature, l'idée de réinterroger toute sa pratique l'enchente particulièrement mais pas autant que celle de remettre le Sens au coeur de tout ce que l'on fait.
 - **Idriss Ben Azaiz** : animateur du secteur jeunesse à l'I-peicc, il accompagne les projets jeunes. Il adore l'idée de travailler concrètement à plusieurs et il souhaite vivement ré-intorroger la question de l'accompagnement (pourquoi on le fait ?) et mettre plus de fond dans les projets. 
 - **Julia Barbelane** : vidéaste indépendante d'un côté et animatrice socioculturelle atypique de l'autre. Hors des circuits de l'animation et des institutions elle apporte la méthodologie de projet et les outils pour "faire autrement".
+- **Virgine Poujol** : sociologue, elle suit l'aventure de loin et nous rejoint à l'occasion pour partager son regard et son expertise.
 
 ## L'histoire
 [Comment Diantre, en sommes-nous arrivé(e)s là ?](https://github.com/formationdeformateurs/documentation/blob/master/Comment%20diantre%20en%20sommes-nous%20arriv%C3%A9s%20%C3%A0%20cr%C3%A9er%20ce%20projet%20%3F.md)
@@ -21,3 +22,9 @@ Fabriquer un contenu de formation innovant et construit à partir des besoins re
 
 ## Mots-clés : 
 Collaboration, développement de projets, agilité, Running Lean, valeurs, innovation, expérimentation, transformation sociale, pouvoir d'agir, jeunesse
+
+## Les partenaires
+![DDCS](https://github.com/formationdeformateurs/documentation/blob/master/medias/logos/logo-ddcs-34.jpg)
+![Francas](https://github.com/formationdeformateurs/documentation/blob/master/medias/logos/logo-francas.png)
+![Léo Lagrange](https://github.com/formationdeformateurs/documentation/blob/master/medias/logos/logo-leo-lagrange.png)
+![Ipeicc](https://github.com/formationdeformateurs/documentation/blob/master/medias/logos/logo-ipeicc.png)
