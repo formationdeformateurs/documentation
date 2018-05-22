@@ -9,11 +9,11 @@ Notre petit sous-groupe "Formation à destination des accompagnat·eur·rice·s 
 
 De ce projet plus global qui avait pour objectif de ne plus faire "pour les jeunes" mais "avec et par", on a décidé d'organiser une grande journée de concertation autour de la question de l'engagement des jeunes. Le format choisi a été le Forum Ouvert. 
 
-![https://github.com/formationdeformateurs/documentation/blob/master/medias/atelier-6/invitation-forum-ouvert.jpg]
+![invitation au forum ouvert][(ttps://github.com/formationdeformateurs/documentation/blob/master/medias/atelier-6/invitation-forum-ouvert.jpg)
 
 ## L'occasion de rencontrer tout un tas de professionnel·le·s de l'accompagnement de projets de jeunes
 Oui ! Cette rencontre a réunit 80 participant·e·s. Autrement dit nous avions (et c'était prémédité) un vivier de personnes à interviewer. 
-Résultat, Claire, Idriss, Manon et moi-même avons pu arpenter les ateliers pour mener nos interviews problèmes (cf [compte-rendu de l'atelier 4](https://github.com/formationdeformateurs/documentation/blob/master/compte-rendus-ateliers/atelier-4.md] et [compte-rendu de l'atelier 5](https://github.com/formationdeformateurs/documentation/blob/master/compte-rendus-ateliers/atelier-5.md)) et compléter les 3 premières interviews menées avant ça.
+Résultat, Claire, Idriss, Manon et moi-même avons pu arpenter les ateliers pour mener nos interviews problèmes (cf [compte-rendu de l'atelier 4](https://github.com/formationdeformateurs/documentation/blob/master/compte-rendus-ateliers/atelier-4.md) et [compte-rendu de l'atelier 5](https://github.com/formationdeformateurs/documentation/blob/master/compte-rendus-ateliers/atelier-5.md)) et compléter les 3 premières interviews menées avant ça.
 
 ![Atelier 4](https://github.com/formationdeformateurs/documentation/blob/master/medias/atelier-6/atelier-4.jpg)
 
