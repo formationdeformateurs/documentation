@@ -29,7 +29,7 @@ Ce matin c'est Manon qui nous accueille dans les tous nouveaux locaux de Léo La
 - Fabriquer 90% du contenu de la version Bêta Trash pour fin juillet 2018
 - Faire en sorte que cette première version soit la plus petite et simple à mettre en place possible pour anticiper le découragement et assurer sa mise en oeuvre
 
-## 10h50 Question de l'engagement d'Idriss
+## 10h50 - Question de l'engagement d'Idriss
 - On est bien conscient·e·s que les plannings sont chargés et qu'il est difficile de se tenir
 - Il nous a rejoinds après le lancement du sous-groupe et n'a pas pu participer aux ateliers de la première partie "d'alignement" de l'équipe. On suppose qu'en plus d'un planning chargé, cela n'a pas facilité son implication. 
 - On a besoin d'avancer et de rester connecté avec notre élan de faire. Aussi on choisi de le tenir informé des avancées via des CR clairs et de continuer à le prévenir de nos rencontres mais pas d'insister plus. 
