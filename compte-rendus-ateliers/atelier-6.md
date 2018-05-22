@@ -9,7 +9,7 @@ Notre petit sous-groupe "Formation à destination des accompagnat·eur·rice·s 
 
 De ce projet plus global qui avait pour objectif de ne plus faire "pour les jeunes" mais "avec et par", on a décidé d'organiser une grande journée de concertation autour de la question de l'engagement des jeunes. Le format choisi a été le Forum Ouvert. 
 
-![invitation au forum ouvert][(ttps://github.com/formationdeformateurs/documentation/blob/master/medias/atelier-6/invitation-forum-ouvert.jpg)
+![invitation au forum ouvert](https://github.com/formationdeformateurs/documentation/blob/master/medias/atelier-6/invitation-forum-ouvert.jpg)
 
 ## L'occasion de rencontrer tout un tas de professionnel·le·s de l'accompagnement de projets de jeunes
 Oui ! Cette rencontre a réunit 80 participant·e·s. Autrement dit nous avions (et c'était prémédité) un vivier de personnes à interviewer. 
@@ -18,7 +18,7 @@ Résultat, Claire, Idriss, Manon et moi-même avons pu arpenter les ateliers pou
 ![Atelier 4](https://github.com/formationdeformateurs/documentation/blob/master/medias/atelier-6/atelier-4.jpg)
 
 ## Résultats 
-A la fin de la journée nous avons pu réaliser 5 interviews et (in)valider nos hypothèses. 
+A la fin de la journée nous avons pu réaliser 5 interviews et (in)valider nos hypothèses.  
 Manon et Julia ont aussi participé à un atelier sur la question "accompagner les projets de jeunes oui mais comment ?" proposé par Thierry ROOS de la DDCS. Une belle occasion de récolter des infos ! 
 
 
