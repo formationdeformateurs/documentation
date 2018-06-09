@@ -2,16 +2,18 @@
 *juin 2018 aux Francas  
 Avec : Manon, Erwann, Claire et Julia*
 
-## - Réinterrogation de notre relation avec le projet porté par le CAF
+## Réinterrogation de notre relation avec le projet porté par le CAF
+**Contexte**
+Depuis le début du projet, un projet similaire est monté par une équipe constitué dans le cadre de la CAF. Nous n'avons quasiment pas échangé avec eux sur ce sujet, d'une part parcequ'on a su tardivement que leur projet était en cours et d'autre part parcque nous avons préféré avancer avec notre méthode le temps de l'éprouver en se disant que le fait qu'il soit 100% documenté et transparent marquait le fait qu'il était ouvert. 
+
 **Le bilan de la formation à l'accompagnement de projets de jeunes de la caf**
-Après un petit tour de météo de chacun·e·s histoire de savoir comment ça va, Claire nous raconte qu'elle a participé au bilan de la formation sur l'accompagnement des projets jeunes organisé par la CAF et qu'elle en a profité pour discuter en informel avec les animat·eur·rice·s présents. 
+Après un petit tour de météo de chacun·e·s histoire de savoir comment ça va, Claire nous raconte qu'elle a participé au bilan de la formation sur l'accompagnement des projets jeunes organisé par la CAF et qu'elle en a profité pour discuter en informel avec les animat·eur·rice·s présents.  
+
 Bonne nouvelle, ces échanges ont validés un des axes qu'on avait évoqués lors de l'atelier 7 "l*Les accompagnat·eur·rice·s de projets jeunes n'aspirent pas à de nouvelles formations dispensées mais aspirent à se rencontrer.*"
 
 **Notre relation future avec ce projet**
-On profite de cette intriduction pour aborder les perspectives avec le projet de la CAF. 
-Claire propose qu'on soit vigilent·e·s à ne pas fermer les ouvertures de collaboration avec le groupe de la CAF. En effet, on travaille dans le même sens et avec les mêmes act·eur·rice·s, ce serait dommage de ne pas travailler côte à côte. 
-Le groupe s'entends sur cette proposition, si jamais ce que l'on compte propose fonctionne et que la complémentarité avec le projet de la CAF est validée, on est partant·e·s pour fonctionner côte à côte ou même ensemble pourquoi pas.
-
+On profite de cette introduction pour aborder les perspectives avec le projet de la CAF.   
+Claire propose qu'on soit vigilent·e·s à ne pas fermer les ouvertures de collaboration avec le groupe de la CAF. En effet, on travaille dans le même sens et avec les mêmes act·eur·rice·s, ce serait dommage de ne pas travailler côte à côte. Le groupe s'entend sur cette proposition, si jamais ce que l'on compte propose fonctionne et que la complémentarité avec le projet de la CAF est validée, on est partant·e·s pour fonctionner côte à côte ou même ensemble pourquoi pas.
 
 ## Revenon à nos moutons, où en est-on ?
 Aujourd'hui On a 3 objectifs : 
@@ -20,37 +22,25 @@ Aujourd'hui On a 3 objectifs :
 - Ecrire la trame des interviews solutions
 
 # Le choix du problème sur lequel on se focalise
-Comme expliqué dans le [CR de l'atelier 7](https://github.com/formationdeformateurs/documentation/blob/master/compte-rendus-ateliers/atelier-7.md) On a observé qu'un problème transversal se situait dans le dialogue entre les différentes cultures. Qu'il s'agisse de la relation entre les accompagnat·eur·rice·s et les élu·e·s, des élu·e·s et des jeunes ou encore des jeunes et des accompagnat·eur·rice·s.
+Comme expliqué dans le [CR de l'atelier 7](https://github.com/formationdeformateurs/documentation/blob/master/compte-rendus-ateliers/atelier-7.md) on a observé qu'un problème transversal se situait dans le dialogue entre les différentes cultures. Qu'il s'agisse de la relation entre les accompagnat·eur·rice·s et les élu·e·s, des élu·e·s et des jeunes ou encore des jeunes et des accompagnat·eur·rice·s.
 
-**On tend plutôt à investir la problématique en lien avec la relation avec les élu·e·s**
-On tend à investir plutôt cette problématique. 
+**Aïe, il s'agit de'un problème qui concerne plusieurs "communautés"**
+Question n°1 : Est-ce donc bien pertinent de vouloir dès à présent passer dans le concret de la formation alors qu'on a interviewé uniquement les accompagnat·eur·rice·s et non les jeunes et/ou les élu·e·s ?  
+Réponse n°1 : Peut-être pas mais on commence à s'essoufler, on a besoin de concret, d'avancer, de tester.  
 
-Le travail autour de la relation avec les élu·e·s : 
-- Comment permettre aux animat·eur·rice·s de contribuer à la formation continue des élu·e·s sur la participation des enfants et des jeunes ?
-- Je n'arrive pas à dialoguer avec mes élu·e·s. 
-- Je n'arrive pas à être compris·e et à comprendre par mes élu·e·s
-- Mieux travailler avec mes élu·e·s
-- Le bug du dialogue avec les élu·e·s
-- 
-
-**Info 1 qu'on pourrait faire passer :** "vous pouvez faire quelque chose. Peut-être n'êtes vous pas victime mais vous avez des cartes dans les mains pour agir/former les élus pour leur faire prendre conscience d'un certain nombre de choses."  
-> Question : est-ce pas malvenu de demander aux acc. d'agir sur ces questions là alors qu'ils sont déjà booké et sollicités.  
-
-**Info 2 qu'on pourrait faire passer :** recréons des conditions de dialogue entre les acteurs
-
-Pourquoi on choisi de se focaliser sur le problème en lien avec les élu·e·s et pas les jeunes : 
-- peur que proposer 2 sujets à choisir compléexifie la méthode
-- pas envie de piétiner la méthode du Running Lean
-- crainte que si on travaille sur la question des jeunes, on se retrouve en posture haute vis-à-vis des jeunes puisqu'ils ne seront pas là et que les réunir et leur faire intégrer la formation demanderai trop de travail pour l'instant
+Question n°2 : Pourquoi choisir une problématique et pas plusieurs quitte à demander aux participant·e·s à la formation sur quoi il·elle·s ont envie de travailler ?  
+Réponse n°2 : On se dit que c'est plus facile de réunir un groupe de personne autour d'un sujet déjà prédéfini. Laisser le choix risque de les perdre et de ne pas faciliter la création de solutions.  
 
 
-## Fabriquer une "forme" de formation et laisser émerger la forme
-Le format·eur·rice n'est pas format·eur·rice mais créateur d'un contexte d'apprentissage confortable et optimum.
-Ce sont les participant·e·s qui créent le contenu 
-On arrive avec une problématique validée par le running lean et on propose aux participant·e·s de fabriquer leurs solutions
+## Fabriquer une "forme" de formation et laisser aux participant·e·s le soin de créer le fond
+En nous reconnectant avec nos intentions premières pour cette formation, on se rejoinds sur l'envie de : 
+- sortir de la posture haute du·de le format·eur·rice. "On en sait pas mieux que ce qui sont directement concernés par le sujet" et d'arriver avec un minimum d'intention pour laisser les solutions émerger d'elles-mêmes.
+- innover, tester d'autres chose.
 
-## Commencer tout petit petit pour que ce soit facile à faire et pas décourageant
-On adorerai créer un endroit dans lequel on pourrait créer un espace de rencontre entre les élu·e·s, les jeunes et les accompagnat·eur·rice·s. Et puis on s'est dit qu'on avait besoin de faire le plus petit possible. 
+Aussi on décide que notre rôle sera plus de **créer un contexte d'apprentissage de qualité que d'apporter du contenu.** Pour ça on imagine quelque chose qui prendra, pour un premier test, la forme d'une journée de rencontre, d'échange et de co-création autour d'un problème identifié et validé par nos interviews. On suppose qu'au travers différents ateliers de partage d'expérience les participant·e·s apprendront seul·e·s et entre eux·elles. Le seule cadre serait le problème identifié que nous choisirons.
+
+## Mener des interviews solutions pour valider cette proposition
+Suite à ça, on décide de reprendre la méthode du Running lean formaliser notre proposition de solutions. Cela implique, entre autre de reprendre le lean Canvas (tableau sur lequel s'appuie la méthode)
 
 
 
