@@ -24,7 +24,7 @@ Aujourd'hui On a 3 objectifs :
 # Le choix du problème sur lequel on se focalise
 Comme expliqué dans le [CR de l'atelier 7](https://github.com/formationdeformateurs/documentation/blob/master/compte-rendus-ateliers/atelier-7.md) on a observé qu'un problème transversal se situait dans le dialogue entre les différentes cultures. Qu'il s'agisse de la relation entre les accompagnat·eur·rice·s et les élu·e·s, des élu·e·s et des jeunes ou encore des jeunes et des accompagnat·eur·rice·s.
 
-**Aïe, il s'agit de'un problème qui concerne plusieurs "communautés"**
+**Aïe, il s'agit de'un problème qui concerne plusieurs "communautés"**  
 Question n°1 : Est-ce donc bien pertinent de vouloir dès à présent passer dans le concret de la formation alors qu'on a interviewé uniquement les accompagnat·eur·rice·s et non les jeunes et/ou les élu·e·s ?  
 Réponse n°1 : Peut-être pas mais on commence à s'essoufler, on a besoin de concret, d'avancer, de tester.  
 
@@ -33,14 +33,15 @@ Réponse n°2 : On se dit que c'est plus facile de réunir un groupe de personne
 
 
 ## Fabriquer une "forme" de formation et laisser aux participant·e·s le soin de créer le fond
-En nous reconnectant avec nos intentions premières pour cette formation, on se rejoinds sur l'envie de : 
-- sortir de la posture haute du·de le format·eur·rice. "On en sait pas mieux que ce qui sont directement concernés par le sujet" et d'arriver avec un minimum d'intention pour laisser les solutions émerger d'elles-mêmes.
-- innover, tester d'autres chose.
+En nous reconnectant avec nos intentions premières pour cette formation, on se rejoinds sur l'envie de :  
+- sortir de la posture haute du·de le format·eur·rice. "On en sait pas mieux que ce qui sont directement concernés par le sujet" et d'arriver avec un minimum d'intention pour laisser les solutions émerger d'elles-mêmes.  
+- innover, tester d'autres chose.  
 
 Aussi on décide que notre rôle sera plus de **créer un contexte d'apprentissage de qualité que d'apporter du contenu.** Pour ça on imagine quelque chose qui prendra, pour un premier test, la forme d'une journée de rencontre, d'échange et de co-création autour d'un problème identifié et validé par nos interviews. On suppose qu'au travers différents ateliers de partage d'expérience les participant·e·s apprendront seul·e·s et entre eux·elles. Le seule cadre serait le problème identifié que nous choisirons.
 
 ## Mener des interviews solutions pour valider cette proposition
-Suite à ça, on décide de reprendre la méthode du Running lean formaliser notre proposition de solutions. Cela implique, entre autre de reprendre le lean Canvas (tableau sur lequel s'appuie la méthode)
+Suite à ça, on décide de reprendre la méthode du Running lean pour formaliser notre proposition de solutions. Cela implique, entre autre de reprendre le [lean Canvas](https://leanstack.com/canvases/451849/slideshow)(tableau sur lequel s'appuie la méthode).
+Dès lors on rédige la tram des interviews solutions et on fabrique le site qui permettra de présenter le projet aux personnes qu'on va interviewer. 
 
 
 
