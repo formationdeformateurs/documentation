@@ -1,16 +1,29 @@
-# Compte rendu de l'atelier
+# Compte rendu de l'atelier 8
 *juin 2018 aux Francas  
 Avec : Manon, Erwann, Claire et Julia*
 
-## 14h - Contexte et vision
+## - Réinterrogation de notre relation avec le projet porté par le CAF
+**Le bilan de la formation à l'accompagnement de projets de jeunes de la caf**
+Après un petit tour de météo de chacun·e·s histoire de savoir comment ça va, Claire nous raconte qu'elle a participé au bilan de la formation sur l'accompagnement des projets jeunes organisé par la CAF et qu'elle en a profité pour discuter en informel avec les animat·eur·rice·s présents. 
+Bonne nouvelle, ces échanges ont validés un des axes qu'on avait évoqués lors de l'atelier 7 "l*Les accompagnat·eur·rice·s de projets jeunes n'aspirent pas à de nouvelles formations dispensées mais aspirent à se rencontrer.*"
 
-Après un petit tour de météo de chacun·e·s histoire de savoir comment ça va, Claire nous fait un retour sur sa participation au bilan de la formation sur l'accompagnement des jeunes organisé par la CAF. Elle nous raconte qu'elle a profité de cette occasion pour discuter en informel avec les animat·eur·rice·s présents. 
-Bonne nouvelle, ces échanges ont validés un des axes qu'on avait évoqués lors de l'atelier 7 "les accompagnat·eur·rice·s de projets jeunes n'aspirent pas à de nouvelles formations dispensées mais aspirent à se rencontrer."
+**Notre relation future avec ce projet**
+On profite de cette intriduction pour aborder les perspectives avec le projet de la CAF. 
+Claire propose qu'on soit vigilent·e·s à ne pas fermer les ouvertures de collaboration avec le groupe de la CAF. En effet, on travaille dans le même sens et avec les mêmes act·eur·rice·s, ce serait dommage de ne pas travailler côte à côte. 
+Le groupe s'entends sur cette proposition, si jamais ce que l'on compte propose fonctionne et que la complémentarité avec le projet de la CAF est validée, on est partant·e·s pour fonctionner côte à côte ou même ensemble pourquoi pas.
 
-On en vient ensuite à discuter de la formation crée par la CAF. Claire propose qu'on soit vigilent·e·s à ne pas fermer les ouvertures de collaboration avec le groupe de la CAF. En effet, on travaille dans le même sens et avec les mêmes act·eur·rice·s, ce serait dommage de ne pas travailler côte à côte. 
 
+## Revenon à nos moutons, où en est-on ?
+Aujourd'hui On a 3 objectifs : 
+- Choisir du problème sur lequel on se focalise
+- Fabriquer la solution qu'on propose pour faire face à ce problème
+- Ecrire la trame des interviews solutions
 
-## 14h48 - Choix du problème sur lequel on se focalise
+# Le choix du problème sur lequel on se focalise
+Comme expliqué dans le [CR de l'atelier 7](https://github.com/formationdeformateurs/documentation/blob/master/compte-rendus-ateliers/atelier-7.md) On a observé qu'un problème transversal se situait dans le dialogue entre les différentes cultures. Qu'il s'agisse de la relation entre les accompagnat·eur·rice·s et les élu·e·s, des élu·e·s et des jeunes ou encore des jeunes et des accompagnat·eur·rice·s.
+
+**On tend plutôt à investir la problématique en lien avec la relation avec les élu·e·s**
+On tend à investir plutôt cette problématique. 
 
 Le travail autour de la relation avec les élu·e·s : 
 - Comment permettre aux animat·eur·rice·s de contribuer à la formation continue des élu·e·s sur la participation des enfants et des jeunes ?
