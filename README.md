@@ -1,4 +1,4 @@
-# Une formation à destination de ceux qui accompagnent les initiatives des jeunes
+# Une formation à destination de celles et ceux qui accompagnent les initiatives des jeunes
 ![mascotte](https://github.com/formationdeformateurs/documentation/blob/master/medias/mascotte.png)
 
 
